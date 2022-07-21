@@ -41,9 +41,47 @@ Java基础很重要，就比如万丈高楼平地起，没有稳定的地基，�
 
 **相关学习教程：**
 
+Java编程学习第一季 - SiKi学院 - 生命不息，学习不止！www.sikiedu.com/course/157
+
+Java编程学习第二季 - SiKi学院 - 生命不息，学习不止！www.sikiedu.com/course/165
+
+Java编程学习第三季 - SiKi学院 - 生命不息，学习不止！www.sikiedu.com/course/202
+
+Java编程学习第四季 - SiKi学院 - 生命不息，学习不止！www.sikiedu.com/course/205
+
 2、Java学习工具的选择
 
+**Notepad++** 
+
+ https://appsitory.com/windows/notepad-plus-plus/
+
+**NetBeans**
+
+https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1HfpoVHFvej4Rsm2-DiS6pA 提取码：7hs7
+
+**IntelliJ IDEA社区版**（不建议刚学习的时候使用）
+
+https://www.jetbrains.com/idea/download/#section=windows
+
+**Eclipse**
+
+https://www.eclipse.org/downloads/
+
 3、推荐资源
+
+**书籍**
+
+[《Java从入门到精通（第6版）（软件开发视频大讲堂）》(明日科技)【摘要 书评 试读】- 京东图书 ](https://item.jd.com/13284888.html)
+
+[《Java从入门到精通 精粹版（异步图书出品）》(张玉宏)【摘要 书评 试读】- 京东图书](https://item.jd.com/12426562.html)
+
+[Head First Java（中文版）（JAVA经典畅销书 生动有趣 轻松学好JAVA） ](http://product.dangdang.com/9265169.html)
+
+[《Java编程思想（第4版）》([美\] Bruce Eckel)【简介_书评_在线阅读】 - 当当图书 ](http://product.dangdang.com/9317290.html)
+
+[Java经典入门指南（基于Java SE 11编写的Java经典入门图书）（异步图书）](https://www.amazon.cn/dp/B0897L4C88/ref=sr_1_11?__mk_zh_CN=亚马逊网站&crid=2JOKOHIGUJUJ9&keywords=Java&qid=1658412531&sprefix=java%2Caps%2C145&sr=8-11)
+
+[On Java 中文版 基础卷 试读版（图灵图书）](https://www.amazon.cn/dp/B09SG4CJGN/ref=sr_1_8?crid=1Y7A7FIF9PZ8N&keywords=java&qid=1658412691&sprefix=%2Caps%2C134&sr=8-8)
 
 ## 三，Java入门阶段
 
@@ -53,11 +91,49 @@ Java基础很重要，就比如万丈高楼平地起，没有稳定的地基，�
 
 1、前端三剑客（CSS+JS+HTML）
 
+**相关学习教程：**
+
+[Web前端第一季（HTML）](http://www.sikiedu.com/course/206)
+
+[Web前端第二季（CSS）](http://www.sikiedu.com/course/207)
+
+[Web前端第三季（JavaScript）](http://www.sikiedu.com/course/212)
+
+[全面深入web前端（HTML+CSS+JS）-视频教程_哔哩哔哩_bilibili](file:///C:/Users/ZHAOJIN/Documents/Downloads)
+
+[Web前端全套_零基础自学到精通必备，Html+Css+前端web就业项目源码实操_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1zb4y167cd)
+
+[web前端开发零基础入门html5+css3+js全套前端教程 | 从入门到到就业全套前端课程](https://www.bilibili.com/video/BV18B4y1a7xh?spm_id_from=333.337.search-card.all.click)
+
 2、JavaScript框架框架（JQuery）
 
-3、数据库技术（MySQL和Oracle）
+**相关学习教程：**
+
+[Web前端第四季（jQuery）](http://www.sikiedu.com/course/213)
+
+[jQuery从入门到精通视频教程_尚学堂_哔哩哔哩_bilibili ](https://www.bilibili.com/video/av543005288/?redirectFrom=h5)
+
+3、数据库技术
+
+MySQL数据库
+
+**相关学习教程：**
+
+[MySQL数据库从零到精通](http://www.sikiedu.com/course/48)
+
+[老杜带你学_mysql入门基础（mysql基础视频+数据库实战)_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1Vy4y1z7EX/?spm_id_from=333.788.recommend_more_video.1)
+
+Oracle数据库
+
+**相关学习教程：**
+
+[2022年讲的最细致Oracle数据库基础课程 从入门到精通教程 数据库实战精讲 错过必后悔_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1n44y1J7bX?spm_id_from=333.337.search-card.all.click)
+
+[Oracle数据库基础教程，4天从零到熟练使用](https://www.bilibili.com/video/BV1GF41137yc/?vd_source=91d723db6a187b54923f516c406935de)
 
 4、JavaWeb动态网页技术（JSP）
+
+[JSP动态网页技术视频教程_Java服务端页面技术课程视频_JSP视频教程](https://www.bilibili.com/video/BV14K411c7K1/?spm_id_from=333.788.recommend_more_video.1)
 
 ## 四、Java进阶阶段
 
@@ -67,9 +143,35 @@ Java基础很重要，就比如万丈高楼平地起，没有稳定的地基，�
 
 1、JavaWeb后端开发
 
+**相关学习教程**：
+
+[【建议收藏】按这个学，找工作没问题！Java后端开发详细学习路线视频教程](https://www.bilibili.com/video/BV1GQ4y1N7HD/?spm_id_from=333.788.recommend_more_video.0&vd_source=91d723db6a187b54923f516c406935de)
+
 2、SSH和SSM框架
 
+SSH框架
+
+**相关学习教程**：
+
+[SSH框架第一季 - Struts入门](http://www.sikiedu.com/course/227)
+
+[SSH框架第二季 - Hibernate入门](http://www.sikiedu.com/course/232)
+
+[SSH框架第三季 - Spring5入门与三大框架整合](http://www.sikiedu.com/course/235)
+
+SSM框架
+
+**相关学习教程**：
+
+[SSM框架第一季 - Mybatis入门](http://www.sikiedu.com/course/258)
+
+[SSM框架第二季 - Spring入门](http://www.sikiedu.com/course/267)
+
+[SSM框架完结篇 SpringMVC与Steam前后台功能模块开发](http://www.sikiedu.com/course/277)
+
 3、进阶项目实战
+
+
 
 ## 五、Java高级阶段
 
