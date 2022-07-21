@@ -33,7 +33,7 @@ Java基础很重要，就比如万丈高楼平地起，没有稳定的地基，�
 
 在这里我建议大家一定要多多练习，多动手敲代码！还有，我不太建议小白前期照着书去学习，但是用来辅佐一下还是可以的。
 
-1、Java语言基础
+### 1、Java语言基础
 
 **学习重点：**
 
@@ -49,7 +49,7 @@ Java编程学习第三季 - SiKi学院 - 生命不息，学习不止！www.sikie
 
 Java编程学习第四季 - SiKi学院 - 生命不息，学习不止！www.sikiedu.com/course/205
 
-2、Java学习工具的选择
+### 2、Java学习工具的选择
 
 **Notepad++** 
 
@@ -67,7 +67,7 @@ https://www.jetbrains.com/idea/download/#section=windows
 
 https://www.eclipse.org/downloads/
 
-3、推荐资源
+### 3、推荐资源
 
 **书籍**
 
@@ -87,9 +87,9 @@ https://www.eclipse.org/downloads/
 
 ------
 
-这个阶段主要学习Java前端技术，数据库技术，JavaWeb动态网页技术，学会了这些，你就可以学会做一些简单的网页和小程序啦。
+这个阶段主要学习JavaWeb基础，如Java前端技术，数据库技术，JavaWeb动态网页技术，学会了这些，你就可以学会做一些简单的网页和小程序啦。
 
-1、前端三剑客（CSS+JS+HTML）
+### 1、前端三剑客（CSS+JS+HTML）
 
 **相关学习教程：**
 
@@ -105,7 +105,7 @@ https://www.eclipse.org/downloads/
 
 [web前端开发零基础入门html5+css3+js全套前端教程 | 从入门到到就业全套前端课程](https://www.bilibili.com/video/BV18B4y1a7xh?spm_id_from=333.337.search-card.all.click)
 
-2、JavaScript框架框架（JQuery）
+### 2、JavaScript框架（JQuery）
 
 **相关学习教程：**
 
@@ -113,7 +113,7 @@ https://www.eclipse.org/downloads/
 
 [jQuery从入门到精通视频教程_尚学堂_哔哩哔哩_bilibili ](https://www.bilibili.com/video/av543005288/?redirectFrom=h5)
 
-3、数据库技术
+### 3、数据库技术
 
 MySQL数据库
 
@@ -131,23 +131,39 @@ Oracle数据库
 
 [Oracle数据库基础教程，4天从零到熟练使用](https://www.bilibili.com/video/BV1GF41137yc/?vd_source=91d723db6a187b54923f516c406935de)
 
-4、JavaWeb动态网页技术（JSP）
+### 4、JavaWeb动态网页技术
+
+Ajax和vue技术
+
+JavaWeb动态网页技术（JSP）
+
+**相关学习教程**：
 
 [JSP动态网页技术视频教程_Java服务端页面技术课程视频_JSP视频教程](https://www.bilibili.com/video/BV14K411c7K1/?spm_id_from=333.788.recommend_more_video.1)
+
+[【建议收藏】按这个学，找工作没问题！Java后端开发详细学习路线视频教程](https://www.bilibili.com/video/BV1GQ4y1N7HD/?spm_id_from=333.788.recommend_more_video.0&vd_source=91d723db6a187b54923f516c406935de)
+
+JavaWeb动态网页技术(Servlet)
+
+### 5、推荐资源
+
+
 
 ## 四、Java进阶阶段
 
 ------
 
-这个阶段主要学习Web后端技术，主流的Java框架，然后跟着教程做一些项目。基本上学完这里就可以去找工作的。
+这个阶段主要学习JavaWeb技术进阶，主流的Java框架，然后跟着教程做一些项目。基本上学完这里就可以去找工作的。
 
-1、JavaWeb后端开发
+### 1、JavaWeb技术进阶
 
-**相关学习教程**：
+Web服务器基础
 
-[【建议收藏】按这个学，找工作没问题！Java后端开发详细学习路线视频教程](https://www.bilibili.com/video/BV1GQ4y1N7HD/?spm_id_from=333.788.recommend_more_video.0&vd_source=91d723db6a187b54923f516c406935de)
+JDBC数据库连接技术
 
-2、SSH和SSM框架
+JavaBean
+
+### 2、SSH和SSM框架
 
 SSH框架
 
@@ -169,7 +185,11 @@ SSM框架
 
 [SSM框架完结篇 SpringMVC与Steam前后台功能模块开发](http://www.sikiedu.com/course/277)
 
-3、进阶项目实战
+### 3、项目构建（Maven）
+
+### 4、进阶项目实战
+
+### 5、JVM学习补充
 
 
 
@@ -177,7 +197,7 @@ SSM框架
 
 ------
 
-这个阶段要学习一些中间件和服务框架。
+这个阶段要学习一些中间件和服务框架，以后会补充一些。
 
 1、Nginx
 
@@ -185,7 +205,7 @@ SSM框架
 
 3、SpringSecurity
 
-4、Spring Cloud Config
+4、Spring Cloud 
 
 5、Spring Boot
 
