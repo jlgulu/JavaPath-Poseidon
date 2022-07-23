@@ -197,7 +197,7 @@ Java Servlet 是运行在 Web 服务器或应用服务器上的程序，它是�
 
 **相关学习教程**：
 
-[Servlet编程视频教程_哔哩哔哩_   bilibili](file:///C:/Users/ZHAOJIN/Desktop/i https:/www.bilibili.com/video/av25816550/)
+[Servlet编程视频教程_哔哩哔哩_bilibili ](https://www.bilibili.com/video/av25816550/)
 
 [【尚学堂】Servlet从入门到实战精选视教程_JavaWEB阶段Servlet小服务程序/Servlet学习_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Rp4y1t7Ex/?spm_id_from=333.788.recommend_more_video.0)
 
