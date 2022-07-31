@@ -107,9 +107,9 @@ Eclipse 是一个开放[源代码](https://baike.baidu.com/item/源代码/3969)�
 
 [Java 官方文档](https://docs.oracle.com/en/java/javase/14/)   想要成为一个优秀的Java程序员，必须要学会看官方文档，所以Java官方文档是需要常浏览的。
 
-[BeginnersBook](https://beginnersbook.com/java-)  这个网站有很多适合初学者学习的教程，都是带着实例的，很适合初学者跟着学习。
+[BeginnersBook](https://beginnersbook.com/java-)   这个网站有很多适合初学者学习的教程，都是带着实例的，很适合初学者跟着学习。
 
-[how2j](https://how2j.cn/)     这个网站里面有很多案例可以联系，适合初学者进行自学Java。
+[how2j](https://how2j.cn/)    这个网站里面有很多案例可以联系，适合初学者进行自学Java。
 
 [simple-java ](https://www.programcreek.com/simple)   这个网站有很多Java常见的问题，可以去浏览一下，加强一下对于Java理论知识的了解。
 
@@ -133,7 +133,7 @@ Web前端开发基础知识学习路线分享，前端开发入门学习三大�
 
 [Web前端第三季（JavaScript）](http://www.sikiedu.com/course/212)
 
-[千锋web前端开发项目教程_1000集完全零基础入门HTML5+CSS3+JS到精通（资料含前端学习路线图）_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV17z4y1D7Yj?spm_id_from=333.337.search-card.all.click)
+[千锋web前端开发项目教程_1000集完全零基础入门HTML5+CSS3+JS到精通_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV17z4y1D7Yj?spm_id_from=333.337.search-card.all.click)
 
 [Web前端全套_零基础自学到精通必备，Html+Css+前端web就业项目源码实操_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1zb4y167cd)
 
@@ -177,7 +177,7 @@ Java数据库连接，（Java Database Connectivity，简称JDBC）是[Java语�
 
 **相关学习教程**：
 
-[JDBC编程和MySQL数据库 - SiKi学院 - 生命不息，学习不止！](
+[JDBC编程和MySQL数据库 - SiKi学院 - 生命不息，学习不止！](https://www.sikiedu.com/course/203)
 
 ### 4、JavaWeb动态网页技术
 
@@ -263,17 +263,15 @@ web服务器，网络协议等基础教程。
 
 [90分钟搞定Web基础：网络协议，HTTP，Web服务器_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1S7411R7kF?spm_id_from=333.337.search-card.all.click)
 
-https://www.sikiedu.com/course/203)
-
-#### JavaBean
+### 2、JavaBean组件
 
 JavaBean是一种可重用的[Java组件](https://baike.baidu.com/item/Java组件/53178233)，它可以被Applet、Servlet、JSP等Java应用程序调用．也可以可视化地被Java开发工具使用。它包含属性(Properties)、方法(Methods)、事件(Events)等特性。
 
 **相关学习教程**：
 
-[尚硅谷JavaWEB视频教程，含：JavaBean、Cookie、HttpSession-学习视频教程-腾讯课堂](https://ke.qq.com/course/26692#term_id=100011679)
+[尚硅谷JavaWEB视频教程，JavaBean学习视频教程-腾讯课堂](https://ke.qq.com/course/26692#term_id=100011679)
 
-### 2、SSH和SSM框架
+### 3、SSH和SSM框架
 
 #### SSH框架
 
