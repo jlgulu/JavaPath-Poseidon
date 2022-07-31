@@ -39,15 +39,15 @@ Java基础很重要，就比如万丈高楼平地起，没有稳定的地基，�
 
 **相关学习教程：**
 
-[Java编程学习第一季 - SiKi学院 - 生命不息，学习不止！](http://www.sikiedu.com/course/157)
+● [Java编程学习第一季 - SiKi学院 - 生命不息，学习不止！](http://www.sikiedu.com/course/157)
 
-[Java编程学习第二季 - SiKi学院 - 生命不息，学习不止！](http://www.sikiedu.com/course/165)
+● [Java编程学习第二季 - SiKi学院 - 生命不息，学习不止！](http://www.sikiedu.com/course/165)
 
-[Java编程学习第三季 - SiKi学院 - 生命不息，学习不止！](http://www.sikiedu.com/course/202)
+● [Java编程学习第三季 - SiKi学院 - 生命不息，学习不止！](http://www.sikiedu.com/course/202)
 
-[Java编程学习第四季 - SiKi学院 - 生命不息，学习不止！](http://www.sikiedu.com/course/205)
+● [Java编程学习第四季 - SiKi学院 - 生命不息，学习不止！](http://www.sikiedu.com/course/205)
 
-[Java教程_Java基础入门视频教程，零基础小白自学Java必备教程_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV18J411W7cE/?spm_id_from=333.788.recommend_more_video.3)
+● [Java教程_Java基础入门视频教程，零基础小白自学Java必备教程_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV18J411W7cE/?spm_id_from=333.788.recommend_more_video.3)
 
 ### 2、Java学习工具的选择
 
@@ -81,35 +81,35 @@ Eclipse 是一个开放[源代码](https://baike.baidu.com/item/源代码/3969)�
 
 其实我不太建议新手刚开始学Java就找书看，书只是个辅助资料，看书并不能让你学会Java。建议你们跟着视频学习。这里给你们推荐几本比较火的书，希望可以给你们帮助
 
-[《Java从入门到精通（第6版）（软件开发视频大讲堂）》(明日科技)【摘要 书评 试读】- 京东图书 ](https://item.jd.com/13284888.html)
+● [《Java从入门到精通（第6版）（软件开发视频大讲堂）》(明日科技)【摘要 书评 试读】- 京东图书 ](https://item.jd.com/13284888.html)
 
-[《Java从入门到精通 精粹版（异步图书出品）》(张玉宏)【摘要 书评 试读】- 京东图书](https://item.jd.com/12426562.html)
+● [《Java从入门到精通 精粹版（异步图书出品）》(张玉宏)【摘要 书评 试读】- 京东图书](https://item.jd.com/12426562.html)
 
-[Head First Java（中文版）（JAVA经典畅销书 生动有趣 轻松学好JAVA） ](http://product.dangdang.com/9265169.html)
+● [Head First Java（中文版）（JAVA经典畅销书 生动有趣 轻松学好JAVA） ](http://product.dangdang.com/9265169.html)
 
-[Java经典入门指南（基于Java SE 11编写的Java经典入门图书）（异步图书）](https://www.amazon.cn/dp/B0897L4C88/ref=sr_1_11?__mk_zh_CN=亚马逊网站&crid=2JOKOHIGUJUJ9&keywords=Java&qid=1658412531&sprefix=java%2Caps%2C145&sr=8-11)
+● [Java经典入门指南（基于Java SE 11编写的Java经典入门图书）（异步图书）](https://www.amazon.cn/dp/B0897L4C88/ref=sr_1_11?__mk_zh_CN=亚马逊网站&crid=2JOKOHIGUJUJ9&keywords=Java&qid=1658412531&sprefix=java%2Caps%2C145&sr=8-11)
 
-[《Eclipse从入门到精通》【摘要 书评 试读】- 京东图书](https://item.jd.com/10043153308867.html)
+● [《Eclipse从入门到精通》【摘要 书评 试读】- 京东图书](https://item.jd.com/10043153308867.html)
 
-[《Java技术大系：NetBeans权威指南（附光盘1张）》(刘斌，费冬冬)【摘要 书评 试读】- 京东图书 ](https://item.jd.com/10143183.html)
+● [《Java技术大系：NetBeans权威指南（附光盘1张）》(刘斌，费冬冬)【摘要 书评 试读】- 京东图书 ](https://item.jd.com/10143183.html)
 
-[《IntelliJ IDEA入门与实战》(黄文毅、罗军)【简介_书评_在线阅读】 - 当当图书 ](http://product.dangdang.com/29120163.html)
+● [《IntelliJ IDEA入门与实战》(黄文毅、罗军)【简介_书评_在线阅读】 - 当当图书 ](http://product.dangdang.com/29120163.html)
 
-[On Java 中文版 基础卷 试读版（图灵图书）](https://www.amazon.cn/dp/B09SG4CJGN/ref=sr_1_8?crid=1Y7A7FIF9PZ8N&keywords=java&qid=1658412691&sprefix=%2Caps%2C134&sr=8-8)
+● [On Java 中文版 基础卷 试读版（图灵图书）](https://www.amazon.cn/dp/B09SG4CJGN/ref=sr_1_8?crid=1Y7A7FIF9PZ8N&keywords=java&qid=1658412691&sprefix=%2Caps%2C134&sr=8-8)
 
 **学习网站**
 
-[LeetCode/力扣](https://leetcode-cn.com/)   刷题必备网站，Java程序员必须浏览的网站，还有很多关于就业相关的资讯。
+● [LeetCode/力扣](https://leetcode-cn.com/)   刷题必备网站，Java程序员必须浏览的网站，还有很多关于就业相关的资讯。
 
-[Java 官方文档](https://docs.oracle.com/en/java/javase/14/)   想要成为一个优秀的Java程序员，必须要学会看官方文档，所以Java官方文档是需要常浏览的。
+● [Java 官方文档](https://docs.oracle.com/en/java/javase/14/)   想要成为一个优秀的Java程序员，必须要学会看官方文档，所以Java官方文档是需要常浏览的。
 
-[BeginnersBook](https://beginnersbook.com/java-)   这个网站有很多适合初学者学习的教程，都是带着实例的，很适合初学者跟着学习。
+● [BeginnersBook](https://beginnersbook.com/java-)   这个网站有很多适合初学者学习的教程，都是带着实例的，很适合初学者跟着学习。
 
-[how2j](https://how2j.cn/)    这个网站里面有很多案例可以联系，适合初学者进行自学Java。
+● [how2j](https://how2j.cn/)    这个网站里面有很多案例可以联系，适合初学者进行自学Java。
 
-[simple-java ](https://www.programcreek.com/simple)   这个网站有很多Java常见的问题，可以去浏览一下，加强一下对于Java理论知识的了解。
+● [simple-java ](https://www.programcreek.com/simple)   这个网站有很多Java常见的问题，可以去浏览一下，加强一下对于Java理论知识的了解。
 
-[菜鸟教程 ](https://www.runoob.com/java/java-tutorial.html)   一个非常适合自学且非常全面的编程自学网站，非常自学能力非常强，完全可以通过这个网站自学就业。
+● [菜鸟教程 ](https://www.runoob.com/java/java-tutorial.html)   一个非常适合自学且非常全面的编程自学网站，非常自学能力非常强，完全可以通过这个网站自学就业。
 
 ## 三，Java入门阶段
 
@@ -123,17 +123,17 @@ Web前端开发基础知识学习路线分享，前端开发入门学习三大�
 
 **相关学习教程：**
 
-[Web前端第一季（HTML）](http://www.sikiedu.com/course/206)
+● [Web前端第一季（HTML）](http://www.sikiedu.com/course/206)
 
-[Web前端第二季（CSS）](http://www.sikiedu.com/course/207)
+● [Web前端第二季（CSS）](http://www.sikiedu.com/course/207)
 
-[Web前端第三季（JavaScript）](http://www.sikiedu.com/course/212)
+● [Web前端第三季（JavaScript）](http://www.sikiedu.com/course/212)
 
-[千锋web前端开发项目教程_1000集完全零基础入门HTML5+CSS3+JS到精通_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV17z4y1D7Yj?spm_id_from=333.337.search-card.all.click)
+● [千锋web前端开发项目教程_1000集完全零基础入门HTML5+CSS3+JS到精通_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV17z4y1D7Yj?spm_id_from=333.337.search-card.all.click)
 
-[Web前端全套_零基础自学到精通必备，Html+Css+前端web就业项目源码实操_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1zb4y167cd)
+● [Web前端全套_零基础自学到精通必备，Html+Css+前端web就业项目源码实操_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1zb4y167cd)
 
-[web前端开发零基础入门html5+css3+js全套前端教程 | 从入门到到就业全套前端课程](https://www.bilibili.com/video/BV18B4y1a7xh?spm_id_from=333.337.search-card.all.click)
+● [web前端开发零基础入门html5+css3+js全套前端教程 | 从入门到到就业全套前端课程](https://www.bilibili.com/video/BV18B4y1a7xh?spm_id_from=333.337.search-card.all.click)
 
 ### 2、JavaScript框架（JQuery）
 
@@ -141,9 +141,9 @@ jQuery是一个快速、简洁的JavaScript框架，是继Prototype之后又一�
 
 **相关学习教程：**
 
-[Web前端第四季（jQuery）](http://www.sikiedu.com/course/213)
+● [Web前端第四季（jQuery）](http://www.sikiedu.com/course/213)
 
-[jQuery从入门到精通视频教程_尚学堂_哔哩哔哩_bilibili ](https://www.bilibili.com/video/av543005288/?redirectFrom=h5)
+● [jQuery从入门到精通视频教程_尚学堂_哔哩哔哩_bilibili ](https://www.bilibili.com/video/av543005288/?redirectFrom=h5)
 
 ### 3、数据库技术
 
@@ -153,9 +153,9 @@ MySQL 是最流行的关系型数据库管理系统，在 WEB 应用方面 MySQL
 
 **相关学习教程：**
 
-[MySQL数据库从零到精通](http://www.sikiedu.com/course/48)
+● [MySQL数据库从零到精通](http://www.sikiedu.com/course/48)
 
-[老杜带你学_mysql入门基础（mysql基础视频+数据库实战)_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1Vy4y1z7EX/?spm_id_from=333.788.recommend_more_video.1)
+● [老杜带你学_mysql入门基础（mysql基础视频+数据库实战)_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1Vy4y1z7EX/?spm_id_from=333.788.recommend_more_video.1)
 
 #### Oracle数据库
 
@@ -163,9 +163,9 @@ Oracle Database，又名Oracle RDBMS，或简称Oracle。是甲骨文公司的�
 
 **相关学习教程：**
 
-[2022年讲的最细致Oracle数据库基础课程 从入门到精通教程 数据库实战精讲 错过必后悔_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1n44y1J7bX?spm_id_from=333.337.search-card.all.click)
+● [2022年讲的最细致Oracle数据库基础课程 从入门到精通教程 数据库实战精讲 错过必后悔_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1n44y1J7bX?spm_id_from=333.337.search-card.all.click)
 
-[Oracle数据库基础教程，4天从零到熟练使用](https://www.bilibili.com/video/BV1GF41137yc/?vd_source=91d723db6a187b54923f516c406935de)
+● [Oracle数据库基础教程，4天从零到熟练使用](https://www.bilibili.com/video/BV1GF41137yc/?vd_source=91d723db6a187b54923f516c406935de)
 
 #### JDBC数据库连接技术
 
@@ -173,7 +173,7 @@ Java数据库连接，（Java Database Connectivity，简称JDBC）是[Java语�
 
 **相关学习教程**：
 
-[JDBC编程和MySQL数据库 - SiKi学院 - 生命不息，学习不止！](https://www.sikiedu.com/course/203)
+● [JDBC编程和MySQL数据库 - SiKi学院 - 生命不息，学习不止！](https://www.sikiedu.com/course/203)
 
 ### 4、JavaWeb动态网页技术
 
@@ -183,9 +183,9 @@ AJAX 是一种在无需重新加载整个网页的情况下，能够更新部分
 
 **相关学习教程**：
 
-[Web前端Ajax入门实战教程-深入剖析ajax技术【快速入门】【通俗易懂】_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1Tf4y1v7oC?spm_id_from=333.337.search-card.all.click)
+● [Web前端Ajax入门实战教程-深入剖析ajax技术【快速入门】【通俗易懂】_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1Tf4y1v7oC?spm_id_from=333.337.search-card.all.click)
 
- [Ajax入门到精通全套完整版(ajax王妈妈版本)Web前端Ajax初学者零基础学习必备_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV15k4y167XM)
+●  [Ajax入门到精通全套完整版(ajax王妈妈版本)Web前端Ajax初学者零基础学习必备_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV15k4y167XM)
 
 #### JSP技术
 
@@ -193,9 +193,9 @@ JSP是Java服务器页面，是一种跨平台的动态网页技术标准，由S
 
 **相关学习教程**：
 
-[JSP动态网页技术视频教程_Java服务端页面技术课程视频_JSP视频教程](https://www.bilibili.com/video/BV14K411c7K1/?spm_id_from=333.788.recommend_more_video.1)
+●  [JSP动态网页技术视频教程_Java服务端页面技术课程视频_JSP视频教程](https://www.bilibili.com/video/BV14K411c7K1/?spm_id_from=333.788.recommend_more_video.1)
 
-[【建议收藏】按这个学，找工作没问题！Java后端开发详细学习路线视频教程](https://www.bilibili.com/video/BV1GQ4y1N7HD/?spm_id_from=333.788.recommend_more_video.0&vd_source=91d723db6a187b54923f516c406935de)
+● [【建议收藏】按这个学，找工作没问题！Java后端开发详细学习路线视频教程](https://www.bilibili.com/video/BV1GQ4y1N7HD/?spm_id_from=333.788.recommend_more_video.0&vd_source=91d723db6a187b54923f516c406935de)
 
 #### Servlet技术
 
@@ -203,45 +203,45 @@ Java Servlet 是运行在 Web 服务器或应用服务器上的程序，它是�
 
 **相关学习教程**：
 
-[html servlet交互入门视频教程-慕课网](https://www.imooc.com/learn/269)
+● [html servlet交互入门视频教程-慕课网](https://www.imooc.com/learn/269)
 
-[Servlet编程视频教程_哔哩哔哩_bilibili ](https://www.bilibili.com/video/av25816550/)
+● [Servlet编程视频教程_哔哩哔哩_bilibili ](https://www.bilibili.com/video/av25816550/)
 
-[【尚学堂】Servlet从入门到实战精选视教程_JavaWEB阶段Servlet小服务程序/Servlet学习_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Rp4y1t7Ex/?spm_id_from=333.788.recommend_more_video.0)
+● [【尚学堂】Servlet从入门到实战精选视教程_JavaWEB阶段Servlet小服务程序/Servlet学习_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Rp4y1t7Ex/?spm_id_from=333.788.recommend_more_video.0)
 
 ### 5、推荐资源
 
 **辅助书籍**
 
-[HTML+CSS+JavaScript入门经典 第3版（异步图书出品） ](https://item.jd.com/13301196.html?cu=true&utm_source=zhuanlan.zhihu.com&utm_medium=tuiguang&utm_campaign=t_1001542270_7909372_0_1927112705&utm_term=f43d4fb2053a4868b826b088c1bc054b)
+● [HTML+CSS+JavaScript入门经典 第3版（异步图书出品） ](https://item.jd.com/13301196.html?cu=true&utm_source=zhuanlan.zhihu.com&utm_medium=tuiguang&utm_campaign=t_1001542270_7909372_0_1927112705&utm_term=f43d4fb2053a4868b826b088c1bc054b)
 
-[HTML5+CSS3+JAVASCRIPT 从入门到项目实践超值版](https://item.jd.com/45569099447.html)
+● [HTML5+CSS3+JAVASCRIPT 从入门到项目实践超值版](https://item.jd.com/45569099447.html)
 
-[《Head First Ajax (中文版)》【摘要 书评 试读】- 京东图书](https://item.jd.com/1026907691.html)
+● [《Head First Ajax (中文版)》【摘要 书评 试读】- 京东图书](https://item.jd.com/1026907691.html)
 
-[《Vue.js设计与实现 霍春阳著 深入浅出前端开发实战》【摘要 书评 试读】- 京东图书](https://item.jd.com/10044386076478.html)
+● [《Vue.js设计与实现 霍春阳著 深入浅出前端开发实战》【摘要 书评 试读】- 京东图书](https://item.jd.com/10044386076478.html)
 
-[《JSP程序设计与案例实战（慕课版）》(刘何秀，郭建磊，姬忠红)【摘要 书评 试读】- 京东图书](https://item.jd.com/12362886.html)
+● [《JSP程序设计与案例实战（慕课版）》(刘何秀，郭建磊，姬忠红)【摘要 书评 试读】- 京东图书](https://item.jd.com/12362886.html)
 
-[《JSP & Servlet学习笔记（第2版 全新改版 附光盘）》(林信良)【摘要 书评 试读】- 京东图书](https://item.jd.com/12497254.html)
+● [《JSP & Servlet学习笔记（第2版 全新改版 附光盘）》(林信良)【摘要 书评 试读】- 京东图书](https://item.jd.com/12497254.html)
 
 **学习网站**
 
-[MDN 技术文档，必看必查 ](https://link.zhihu.com/?target=https%3A//developer.mozilla.org/zh-CN/)
+● [MDN 技术文档，必看必查 ](https://link.zhihu.com/?target=https%3A//developer.mozilla.org/zh-CN/)
 
- [前端开发|菜鸟教程](https://c.runoob.com/web-developer/)
+●  [前端开发|菜鸟教程](https://c.runoob.com/web-developer/)
 
-[w3school 在线教程 ](https://www.w3school.com.cn/)
+● [w3school 在线教程 ](https://www.w3school.com.cn/)
 
-[MySQL官网：MySQL](https://link.zhihu.com/?target=https%3A//www.mysql.com/cn/)
+● [MySQL官网：MySQL](https://link.zhihu.com/?target=https%3A//www.mysql.com/cn/)
 
-[MySQL官方文档](https://dev.mysql.com/doc/)
+● [MySQL官方文档](https://dev.mysql.com/doc/)
 
-[JSP教程 - 一点教程 ](http://www.yiidian.com/jsp/)
+● [JSP教程 - 一点教程 ](http://www.yiidian.com/jsp/)
 
-[Servlet 简介 | 菜鸟教程](https://www.runoob.com/servlet/servlet-intro.html)
+● [Servlet 简介 | 菜鸟教程](https://www.runoob.com/servlet/servlet-intro.html)
 
-[Java - Servlet完全教程 - 简书](https://www.jianshu.com/p/e0471ce1b106)
+● [Java - Servlet完全教程 - 简书](https://www.jianshu.com/p/e0471ce1b106)
 
 ## 四、Java进阶阶段
 
@@ -257,7 +257,7 @@ web服务器，网络协议等基础教程。
 
 **相关学习教程**：
 
-[90分钟搞定Web基础：网络协议，HTTP，Web服务器_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1S7411R7kF?spm_id_from=333.337.search-card.all.click)
+● [90分钟搞定Web基础：网络协议，HTTP，Web服务器_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1S7411R7kF?spm_id_from=333.337.search-card.all.click)
 
 ### 2、JavaBean组件
 
@@ -265,7 +265,7 @@ JavaBean是一种可重用的[Java组件](https://baike.baidu.com/item/Java组�
 
 **相关学习教程**：
 
-[尚硅谷JavaWEB视频教程，JavaBean学习视频教程-腾讯课堂](https://ke.qq.com/course/26692#term_id=100011679)
+● [尚硅谷JavaWEB视频教程，JavaBean学习视频教程-腾讯课堂](https://ke.qq.com/course/26692#term_id=100011679)
 
 ### 3、SSH和SSM框架
 
@@ -275,11 +275,11 @@ SSH(struts+spring+hibernate)是一个集成框架，可帮助开发人员在短�
 
 **相关学习教程**：
 
-[SSH框架第一季 - Struts入门](http://www.sikiedu.com/course/227)
+● [SSH框架第一季 - Struts入门](http://www.sikiedu.com/course/227)
 
-[SSH框架第二季 - Hibernate入门](http://www.sikiedu.com/course/232)
+● [SSH框架第二季 - Hibernate入门](http://www.sikiedu.com/course/232)
 
-[SSH框架第三季 - Spring5入门与三大框架整合](http://www.sikiedu.com/course/235)
+● [SSH框架第三季 - Spring5入门与三大框架整合](http://www.sikiedu.com/course/235)
 
 #### SSM框架
 
@@ -287,21 +287,21 @@ SSM（Spring+SpringMVC+MyBatis）框架集由Spring、MyBatis两个开源框架�
 
 **相关学习教程**：
 
-[SSM框架第一季 - Mybatis入门](http://www.sikiedu.com/course/258)
+● [SSM框架第一季 - Mybatis入门](http://www.sikiedu.com/course/258)
 
-[SSM框架第二季 - Spring入门](http://www.sikiedu.com/course/267)
+● [SSM框架第二季 - Spring入门](http://www.sikiedu.com/course/267)
 
-[SSM框架完结篇 SpringMVC与Steam前后台功能模块开发](http://www.sikiedu.com/course/277)
+● [SSM框架完结篇 SpringMVC与Steam前后台功能模块开发](http://www.sikiedu.com/course/277)
 
-### 3、项目构建（Maven）
+### 4、项目构建（Maven）
 
 Maven 是一款基于 Java 平台的项目管理和整合工具，它将项目的开发和管理过程抽象成一个项目对象模型（POM）。开发人员只需要做一些简单的配置，Maven 就可以自动完成项目的编译、测试、打包、发布以及部署等工作。
 
-[3小时学会使用Maven构建项目 - SiKi学院 - 生命不息，学习不止！](https://www.sikiedu.com/course/284)
+● [3小时学会使用Maven构建项目 - SiKi学院 - 生命不息，学习不止！](https://www.sikiedu.com/course/284)
 
-[尚硅谷2022版Maven教程（maven入门+高深，全网无出其右！）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12q4y147e4?spm_id_from=333.337.search-card.all.click&vd_source=c73fd227212a29e69099e773cf7a68c8)
+● [尚硅谷2022版Maven教程（maven入门+高深，全网无出其右！）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12q4y147e4?spm_id_from=333.337.search-card.all.click&vd_source=c73fd227212a29e69099e773cf7a68c8)
 
-### 4、进阶项目实战
+### 5、进阶项目实战
 
 #### 1.mall：电商系统
 
@@ -331,35 +331,35 @@ Maven 是一款基于 Java 平台的项目管理和整合工具，它将项目�
 
 **相关学习教程**：
 
-[【狂神说】Nginx最新教程通俗易懂，40分钟搞定！_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1F5411J7vK?spm_id_from=333.337.search-card.all.click&vd_source=c73fd227212a29e69099e773cf7a68c8)
+● [【狂神说】Nginx最新教程通俗易懂，40分钟搞定！_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1F5411J7vK?spm_id_from=333.337.search-card.all.click&vd_source=c73fd227212a29e69099e773cf7a68c8)
 
-[Nginx开发从入门到精通全套视频教程_IT营 ](https://www.itying.com/goods-352.html)
+● [Nginx开发从入门到精通全套视频教程_IT营 ](https://www.itying.com/goods-352.html)
 
 ### 2、Redis
 
 **相关学习教程**：
 
-[深入剖析Redis教程-全网讲的最细最全的Redis教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV13U4y1a7vi?spm_id_from=333.337.search-card.all.click)
+● [深入剖析Redis教程-全网讲的最细最全的Redis教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV13U4y1a7vi?spm_id_from=333.337.search-card.all.click)
 
-[Redis视频教程_免费Redis教程在线学习-php中文网课程 ](https://www.php.cn/course/list/54.html)
+● [Redis视频教程_免费Redis教程在线学习-php中文网课程 ](https://www.php.cn/course/list/54.html)
 
 ### 3、Spring Boot
 
 **相关学习教程**：
 
-[【狂神说Java】SpringBoot最新教程IDEA版通俗易懂_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1PE411i7CV?spm_id_from=333.337.search-card.all.click)
+● [【狂神说Java】SpringBoot最新教程IDEA版通俗易懂_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1PE411i7CV?spm_id_from=333.337.search-card.all.click)
 
-[2021年SpringBoot视频教程【免费学习】-学习视频教程-腾讯课堂](https://ke.qq.com/course/260513#term_id=100307171)
+● [2021年SpringBoot视频教程【免费学习】-学习视频教程-腾讯课堂](https://ke.qq.com/course/260513#term_id=100307171)
 
 ### 9、企业级项目实战
 
 **相关学习教程**：
 
-[Java企业级项目开发实战_Ting域主持人_真实企业项目_已上线项目_标准互联网项目_Java前后端分离项目_Java项目开发_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV19U4y1h7Ky)
+● [Java企业级项目开发实战_Ting域主持人_真实企业项目_已上线项目_标准互联网项目_Java前后端分离项目_Java项目开发_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV19U4y1h7Ky)
 
-[汽车租赁项目讲解_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18A41147CY)
+● [汽车租赁项目讲解_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18A41147CY)
 
-[Java毕业项目OA办公系统项目实战视频教程_尚学堂OA员工管理系统项目实战_OA办公自动化系统项目开发_java开发_环境搭建_数据库设计_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1954y1b7Ac)
+● [Java毕业项目OA办公系统项目实战视频教程_尚学堂OA员工管理系统项目实战_OA办公自动化系统项目开发_java开发_环境搭建_数据库设计_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1954y1b7Ac)
 
 ## 六、面试阶段
 
@@ -369,31 +369,31 @@ Maven 是一款基于 Java 平台的项目管理和整合工具，它将项目�
 
 **相关资源：**
 
-[面试应答有哪些话术和技巧？](https://www.zhihu.com/question/35953016/answer/424927405)
+● [面试应答有哪些话术和技巧？](https://www.zhihu.com/question/35953016/answer/424927405)
 
-[java面试技巧 项目经验该怎么说？ - 哔哩哔哩](https://www.bilibili.com/read/cv12806947)
+● [java面试技巧 项目经验该怎么说？ - 哔哩哔哩](https://www.bilibili.com/read/cv12806947)
 
-[Java程序员面试技巧：这样面试通过率增加90%](https://zhuanlan.zhihu.com/p/139984848)
+● [Java程序员面试技巧：这样面试通过率增加90%](https://zhuanlan.zhihu.com/p/139984848)
 
-[Java面试的5个小技巧](https://blog.csdn.net/qq_37566545/article/details/80263102)
+● [Java面试的5个小技巧](https://blog.csdn.net/qq_37566545/article/details/80263102)
 
-[java面试技巧 项目经验该怎么说？ - 哔哩哔哩](https://www.bilibili.com/read/cv12806947)
+● [java面试技巧 项目经验该怎么说？ - 哔哩哔哩](https://www.bilibili.com/read/cv12806947)
 
-[【专业技术】Java面试技巧](https://cloud.tencent.com/developer/article/1062967)
+● [【专业技术】Java面试技巧](https://cloud.tencent.com/developer/article/1062967)
 
 ### 2、Java面试题推荐
 
 **相关资源：**
 
-[【模拟面试】企业面试真题_情景模拟面试_牛客网 ](https://www.nowcoder.com/interview/ai/cover?companyTagId=138)
+● [【模拟面试】企业面试真题_情景模拟面试_牛客网 ](https://www.nowcoder.com/interview/ai/cover?companyTagId=138)
 
-[Java面试题大全（整理版）1000+面试题附答案详解，最全面详细，看完稳了_90后小伙追梦之路的博客-CSDN博客_java面试题](https://blog.csdn.net/m0_67322837/article/details/124718605)
+● [Java面试题大全（整理版）1000+面试题附答案详解，最全面详细，看完稳了_90后小伙追梦之路的博客-CSDN博客_java面试题](https://blog.csdn.net/m0_67322837/article/details/124718605)
 
-[JAVA经典面试题附答案(持续更新版) - 哔哩哔哩](https://www.bilibili.com/read/cv13675497)
+● [JAVA经典面试题附答案(持续更新版) - 哔哩哔哩](https://www.bilibili.com/read/cv13675497)
 
-[Java最全面试题及答案整理（2022最新版） - 知乎](https://zhuanlan.zhihu.com/p/64147696)
+● [Java最全面试题及答案整理（2022最新版） - 知乎](https://zhuanlan.zhihu.com/p/64147696)
 
-[JavaGuide: Java面试题库](https://gitee.com/tiantangdegezi/JavaGuide)
+● [JavaGuide: Java面试题库](https://gitee.com/tiantangdegezi/JavaGuide)
 
 ## 七、结语
 
