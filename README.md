@@ -23,6 +23,8 @@ Java没落了吗？前景如何？
 
 先来一张思维导图来大致了解一些Java要学哪些内容。
 
+
+
 ![](http://assets.processon.com/chart_image/62d806891e085365eda18d25.png)
 
 ## 二、Java基础阶段
@@ -37,7 +39,7 @@ Java基础很重要，就比如万丈高楼平地起，没有稳定的地基，�
 
 **学习重点：**
 
-语法，面向对象编程，函数，类，网络编程，文件操作IO流，异常处理
+语法，面向对象编程，函数，类，网络编程，文件操作IO流，异常处理。
 
 **相关学习教程：**
 
@@ -61,7 +63,7 @@ Notepad++是Windows操作系统下的一套[文本编辑器](https://baike.baidu
 
 **NetBeans**
 
-NetBeans 是开源软件开发集成环境，是一个开放框架，可扩展的开发平台，可以用于 Java，C/C++，PHP 等语言的开发，本身是一个开发平台，可以通过扩展插件来扩展功能
+NetBeans 是开源软件开发集成环境，是一个开放框架，可扩展的开发平台，可以用于 Java，C/C++，PHP 等语言的开发，本身是一个开发平台，可以通过扩展插件来扩展功能。
 
 下载链接：https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1HfpoVHFvej4Rsm2-DiS6pA 提取码：7hs7
 
@@ -101,17 +103,17 @@ Eclipse 是一个开放[源代码](https://baike.baidu.com/item/源代码/3969)�
 
 **学习网站**
 
-[LeetCode/力扣](https://leetcode-cn.com/)刷题必备网站，Java程序员必须浏览的网站，还有很多关于就业相关的资讯。
+[LeetCode/力扣](https://leetcode-cn.com/)   刷题必备网站，Java程序员必须浏览的网站，还有很多关于就业相关的资讯。
 
-[Java 官方文档](file:///C:/Users/ZHAOJIN/Desktop/The Java™ Tutorials)想要成为一个优秀的Java程序员，必须要学会看官方文档，所以Java官方文档是需要常浏览的。
+[Java 官方文档](https://docs.oracle.com/en/java/javase/14/)   想要成为一个优秀的Java程序员，必须要学会看官方文档，所以Java官方文档是需要常浏览的。
 
-[BeginnersBook](https://beginnersbook.com/java-)这个网站有很多适合初学者学习的教程，都是带着实例的，很适合初学者跟着学习。
+[BeginnersBook](https://beginnersbook.com/java-)  这个网站有很多适合初学者学习的教程，都是带着实例的，很适合初学者跟着学习。
 
-[how2j](https://how2j.cn/)这个网站里面有很多案例可以联系，适合初学者进行自学Java。
+[how2j](https://how2j.cn/)     这个网站里面有很多案例可以联系，适合初学者进行自学Java。
 
-[simple-java](https://www.programcreek.com/simple)这个网站有很多Java常见的问题，可以去浏览一下，加强一下对于Java理论知识的了解。
+[simple-java ](https://www.programcreek.com/simple)   这个网站有很多Java常见的问题，可以去浏览一下，加强一下对于Java理论知识的了解。
 
-[菜鸟教程](https://www.runoob.com/java/java-tutorial.html)一个非常适合自学且非常全面的编程自学网站，非常自学能力非常强，完全可以通过这个网站自学就业。
+[菜鸟教程 ](https://www.runoob.com/java/java-tutorial.html)   一个非常适合自学且非常全面的编程自学网站，非常自学能力非常强，完全可以通过这个网站自学就业。
 
 ## 三，Java入门阶段
 
@@ -169,6 +171,14 @@ Oracle Database，又名Oracle RDBMS，或简称Oracle。是甲骨文公司的�
 
 [Oracle数据库基础教程，4天从零到熟练使用](https://www.bilibili.com/video/BV1GF41137yc/?vd_source=91d723db6a187b54923f516c406935de)
 
+#### JDBC数据库连接技术
+
+Java数据库连接，（Java Database Connectivity，简称JDBC）是[Java语言](https://baike.baidu.com/item/Java语言)中用来规范客户端程序如何来访问数据库的[应用程序接口](https://baike.baidu.com/item/应用程序接口/10418844)，提供了诸如查询和更新数据库中数据的方法。JDBC也是Sun Microsystems的商标。我们通常说的JDBC是面向关系型数据库的。
+
+**相关学习教程**：
+
+[JDBC编程和MySQL数据库 - SiKi学院 - 生命不息，学习不止！](
+
 ### 4、JavaWeb动态网页技术
 
 #### Ajax和vue技术
@@ -181,7 +191,7 @@ AJAX 是一种在无需重新加载整个网页的情况下，能够更新部分
 
  [Ajax入门到精通全套完整版(ajax王妈妈版本)Web前端Ajax初学者零基础学习必备_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV15k4y167XM)
 
-#### JavaWeb动态网页技术（JSP）
+#### JSP技术
 
 JSP是Java服务器页面，是一种跨平台的动态网页技术标准，由Sun Microsystems公司倡导、多家公司参与建立。它在HTML文件中插入Java程序段(Scriptlet)和JSP标记(tag)，从而形成JSP文件(*.jsp)。既能在Linux下运行，也能在其他操作系统上运行。
 
@@ -191,7 +201,7 @@ JSP是Java服务器页面，是一种跨平台的动态网页技术标准，由S
 
 [【建议收藏】按这个学，找工作没问题！Java后端开发详细学习路线视频教程](https://www.bilibili.com/video/BV1GQ4y1N7HD/?spm_id_from=333.788.recommend_more_video.0&vd_source=91d723db6a187b54923f516c406935de)
 
-#### JavaWeb动态网页技术(Servlet)
+#### Servlet技术
 
 Java Servlet 是运行在 Web 服务器或应用服务器上的程序，它是作为来自 Web 浏览器或其他 HTTP 客户端的请求和 HTTP 服务器上的数据库或应用程序之间的中间层。使用 Servlet，您可以收集来自网页表单的用户输入，呈现来自数据库或者其他源的记录，还可以动态创建网页。
 
@@ -253,13 +263,7 @@ web服务器，网络协议等基础教程。
 
 [90分钟搞定Web基础：网络协议，HTTP，Web服务器_哔哩哔哩_bilibili ](https://www.bilibili.com/video/BV1S7411R7kF?spm_id_from=333.337.search-card.all.click)
 
-#### JDBC数据库连接技术
-
-Java数据库连接，（Java Database Connectivity，简称JDBC）是[Java语言](https://baike.baidu.com/item/Java语言)中用来规范客户端程序如何来访问数据库的[应用程序接口](https://baike.baidu.com/item/应用程序接口/10418844)，提供了诸如查询和更新数据库中数据的方法。JDBC也是Sun Microsystems的商标。我们通常说的JDBC是面向关系型数据库的。
-
-**相关学习教程**：
-
-[JDBC编程和MySQL数据库 - SiKi学院 - 生命不息，学习不止！](https://www.sikiedu.com/course/203)
+https://www.sikiedu.com/course/203)
 
 #### JavaBean
 
