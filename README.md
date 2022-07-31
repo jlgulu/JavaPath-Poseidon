@@ -21,7 +21,7 @@ Java没落了吗？前景如何？
 
 ------
 
-先来一张思维导图来大致了解一些Java要学哪些内容。（链接：https://www.processon.com/view/link/62e63df2f346fb0760d7d358）
+先来一张思维导图来大致了解一些Java要学哪些内容。（链接：[Java学习路线思维导图](https://www.processon.com/view/link/62e63df2f346fb0760d7d358)）
 
 ![](http://assets.processon.com/chart_image/62d806891e085365eda18d25.png)
 
