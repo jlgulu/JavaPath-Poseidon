@@ -21,9 +21,7 @@ Java没落了吗？前景如何？
 
 ------
 
-先来一张思维导图来大致了解一些Java要学哪些内容。
-
-
+先来一张思维导图来大致了解一些Java要学哪些内容。（链接：https://www.processon.com/view/link/62e63df2f346fb0760d7d358）
 
 ![](http://assets.processon.com/chart_image/62d806891e085365eda18d25.png)
 
@@ -141,7 +139,7 @@ Web前端开发基础知识学习路线分享，前端开发入门学习三大�
 
 ### 2、JavaScript框架（JQuery）
 
-jQuery是一个快速、简洁的JavaScript框架，是继Prototype之后又一个优秀的JavaScript代码库（框架）于2006年1月由[John Resig](https://baike.baidu.com/item/John Resig/6336344)发布。
+jQuery是一个快速、简洁的JavaScript框架，是继Prototype之后又一个优秀的JavaScript代码库（框架）于2006年1月由John Resi发布。
 
 **相关学习教程：**
 
